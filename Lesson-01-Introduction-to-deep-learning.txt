@@ -1,0 +1,27 @@
+Goal of specialization
+  know how to apply machine learning in a bunch of different context
+    XRay learning
+    Agricultural contexts
+  will be able to put deep learning onto resume with confidence
+
+analogy
+  AI as new electricity
+    affects everything in this world and transofrms the way the world works
+
+What you will lern
+1.  neural network and deep learning
+  fyou will learn foundations of neural nets and deep learninghow
+  how to build a neural network and and train it to recognize cats
+2.  improving deep neural networks: hyperparameter tuning, regularization, optimization
+  focus on practical aspwects
+  diagnose price and varients
+  how to tune networks
+  how to train networks effectively
+3. how to manke decisions as a business manager with deep learning
+  when to build a neural net and when to not
+  how do you deal with this challenge
+  not often taught in universities
+4. abbreviated convolution neural networks (CNNs)
+  CNNs are often applied to images
+5. learn sequence models and how to apply them to natrual language processing and other problems
+  how to apply them to speech recognition and language generation
